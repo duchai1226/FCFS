@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\FCFS\FCFS\obj\Debug\FCFS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FCFS\FCFS\bin\Debug\FCFS.exe.config
+C:\Users\PC\source\repos\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Users\PC\source\repos\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Users\PC\source\repos\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Users\PC\source\repos\FCFS\FCFS\obj\Debug\FCFS.pdb
